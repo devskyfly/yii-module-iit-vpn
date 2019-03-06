@@ -1,0 +1,13 @@
+{
+    "name": "devskyfly/yii-module-iit-vpn",
+    "type": "module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan",
+            "email": "devskyfly@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
