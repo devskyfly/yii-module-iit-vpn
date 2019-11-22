@@ -1,0 +1,25 @@
+{
+	"name" : "devskyfly/yii-module-admin-panel",
+	"type" : "module",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Ivan",
+			"email" : "devskyfly@gmail.com"
+		}
+	],
+	"require" : {
+		"php" : ">=5.6.0",
+		"ramsey/uuid" : "~3.8",
+		"inblank/yii2-transliter" : "^0.1.1",
+		"yiisoft/yii2-httpclient" : "^2.0",
+		"elasticsearch/elasticsearch" : "^5.3",
+		"yiisoft/yii2" : "~2.0.6",
+		"yiisoft/yii2-elasticsearch" : "2.1.x-dev",
+		"devskyfly/php56":"^1.0.0"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"devskyfly\\yiiModuleAdminPanel\\" : "src"
+		}
+	}
+}

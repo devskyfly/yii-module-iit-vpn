@@ -1,0 +1,7 @@
+#Eclipse
+.setting/*
+.project
+
+#Composer
+vendor
+tests/_output/*
